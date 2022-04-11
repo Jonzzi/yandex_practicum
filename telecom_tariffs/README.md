@@ -1,3 +1,8 @@
-telecom_tariffs
-Determining a favorable tariff for a telecom company
-Used: pandas, numpy, mathplotlib, scipy
+<b>telecom_tariffs</b><br>
+Determining a favorable tariff for a telecom companys<br>
+Определение выгодного тарифа для телеком компании<br>
+<b>Сферы деятельности:</b> Телеком, Услуги для бизнесы [b2] (аутсорс, консалтинг, аудит)<br>
+<b>Направление:</b> Data Scientist, Data Analyst<br>
+<b>Задача проекта:</b> На основе данных клиентов оператора сотовой связи проанализировать поведение, клиентов и поиск выгодного тарифа для телеком компании<br>
+<b>Навыки и инструменты:</b> python, pandas, numpy, mathplotlib, scipys, описательная статистика, проверка статистических гипотез<br>
+<b>Описание:</b> Оператор мобильной связи выяснил - многие  

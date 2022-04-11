@@ -1,4 +1,9 @@
-game_shop
-Studying the patterns that determine the success of games
-Used: pandas, numpy, matplotlib, scipy, seaborn
-For an online store, it is required to analyze various genres and platforms of games for the current period in order to plan investments in an advertising company. It is necessary to choose the most promising segment.
+<b>game_shop</b><br>
+Studying the patterns that determine the success of games<br>
+Изучение закономерностей определяющих успешность игр<br>
+For an online store, it is required to analyze various genres and platforms of games for the current period in order to plan investments in an advertising company. It is necessary to choose the most promising segment.<br>
+<b>Сферы деятельности:</b> Gamedev, Internet-shop, Маркетинг, IT-компания, Услуги для бизнеса [b2b] (аутсорс консалтинг аудит)<br>
+<b>Направление:</b> Data Analyst<br>
+<b>Задачи проекта:</b> Используя исторические данные о продаже компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности определяющие успешность игр<br>
+<b>Навыки и инструменты:</b> python, pandas, numpy, matplotlib, scipy, seaborn, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез<br>
+<b>Описание:</b> Интернет-магазин продает компьютерные игры по всему миру. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы. Выявлены параметры, определяющие успешность игр в разных регионах мира. Выявлены потенциально популярные продукты и спланированы рекламные компании. Выбран актуальный период для анализа. Составлены описания предпочтений пользователей для каждого региона. Проверены гипотезы о пользовательских рейтингах. При анализе использовался критерий Стьюдента для независимых выборок.

@@ -1,4 +1,4 @@
-<b>telecom_tariffs</b><br>
+<h1>telecom_tariffs</h1>
 Determining a favorable tariff for a telecom companys<br>
 Определение выгодного тарифа для телеком компании<br>
 <b>Сферы деятельности:</b> Телеком, Услуги для бизнесы [b2] (аутсорс, консалтинг, аудит)<br>

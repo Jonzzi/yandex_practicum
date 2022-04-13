@@ -6,5 +6,5 @@
 <li><b>Направление:</b> Data Analyst
 <li><b>Задачи проекта:</b> Используя исторические данные о продаже компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности определяющие успешность игр
 <li><b>Навыки и инструменты:</b> python, pandas, numpy, matplotlib, scipy, seaborn, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез
-<li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/geo_research
+<li><b>Ссылка на файл проекта:</b> https://github.com/Jonzzi/yandex_practicum/blob/main/game_shop/Yumagulov_Games_Analysis.ipynb
 </ul>

@@ -27,3 +27,12 @@
 <li>Статус: <i>проект завершен успешно</i>
 <li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/telecom_tariffs
 </ul>
+<h3>4. auto_price</h3>
+Прогнозирование стоимости подержанного автомобиля:
+<ul>
+<li>Тема: <i>Определение выгодного тарифа для телеком компании</i>
+<li>Направление: <i>Data Analysis</i>
+<li>Использовалось: <i>python, pandas, mathplotlib, статистических гипотез</i>
+<li>Статус: <i>проект в процессе доработки</i>
+<li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/auto_price
+</ul>

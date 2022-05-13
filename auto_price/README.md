@@ -8,5 +8,5 @@
 <li><b>Задачи проекта:</b> В нашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Необходимо построить модель для определения стоимости.
 <li><b>Итог проекта:</b> Была определена модель (CatBoostRegressor) дающая хорошее качество предсказания в приемлемое время.
 <li><b>Статус проекта:</b> в процессе дорабоки 
-<li><b>Ссылка на файл проекта:</b> https://github.com/Jonzzi/yandex_practicum/blob/main/auto_price/math%20meth.ipynb
+<li><b>Ссылка на файл проекта:</b> https://github.com/Jonzzi/yandex_practicum/blob/main/auto_price/Yumagulov_Auto_Price.ipynb
 </ul>

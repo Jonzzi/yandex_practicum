@@ -36,3 +36,12 @@
 <li>Статус: <i>проект в процессе доработки</i>
 <li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/auto_price
 </ul>
+<h3>4. gold_factory</h3>
+Проект по модели предсказывающей эффективность восстановление золота из золотосодержащей руды:
+<ul>
+<li>Тема: <i>Подготовка прототипа модели для металлообрабатывающего предприятия</i>
+<li>Направление: <i>Machine Learning</i>
+<li>Использовалось: <i>python, pandas, sklearn, машинное обучение, кросс-валидация, анализ данных</i>
+<li>Статус: <i>проект завершен успешно</i>
+<li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/gold_factory
+</ul>

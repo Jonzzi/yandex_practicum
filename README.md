@@ -45,3 +45,12 @@
 <li>Статус: <i>проект завершен успешно</i>
 <li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/gold_factory
 </ul>
+<h3>6. taxi_orders</h3>
+Проект по модели предсказывающей количество заказов такси:
+<ul>
+<li>Тема: <i>Подготовка прототипа модели для сервиса такси</i>
+<li>Направление: <i>Machine Learning</i>
+<li>Использовалось: <i>python, pandas, sklearn, numpy, statsmodels, datetime, catboost, xgboost, lightgbm, машинное обучение</i>
+<li>Статус: <i>проект завершен успешно</i>
+<li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/taxi_orders
+</ul>

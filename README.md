@@ -8,7 +8,7 @@
 <li>Направление: <i>Machine Learning</i>
 <li>Использовалось: <i>python, pandas, sklearn, numpy, nltk, spacy, bert, datetime, catboost, xgboost, lightgbm, машинное обучение</i>
 <li>Статус: <i>проект завершен успешно 31.05.2022</i>
-<li>Ссылка на проект: [https://github.com/Jonzzi/yandex_practicum/tree/main/taxi_orders](https://github.com/Jonzzi/yandex_practicum/tree/main/toxic_comments)
+<li>Ссылка на проект: https://github.com/Jonzzi/yandex_practicum/tree/main/toxic_comments
 </ul>
 
 <h3>2. taxi_orders</h3>

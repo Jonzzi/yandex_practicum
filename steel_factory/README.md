@@ -8,5 +8,5 @@
 <li><b>Задачи проекта:</b> Разработка модели, предсказывающей итоговую температуру сплава.
 <li><b>Итог проекта:</b> Построена модель, предсказывающая итоговую температуру сплава. Проанализированы исходные данные, созданы новые признаки. Построена и обучена модель с требуемым значением метрики МАЕ.
 <li><b>Статус проекта:</b> успешно завершен 
-<li><b>Ссылка на файл проекта:</b> https://github.com/Jonzzi/yandex_practicum/blob/main/gold_factory/Yumagulov_Steel_Factory.ipynb
+<li><b>Ссылка на файл проекта:</b> https://github.com/Jonzzi/yandex_practicum/blob/main/steel_factory/Yumagulov_Steel_Factory.ipynb
 </ul>
